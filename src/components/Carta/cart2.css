@@ -1,0 +1,16 @@
+.container2{
+    width: 1065px;
+    margin: auto;
+}
+
+.cart {
+    margin-top: 50px;
+    width: 200px;
+    height: 350px;
+    border: 1px solid black;
+}
+
+.cart img{
+    display: inline-block;
+    width: 100%;
+}
